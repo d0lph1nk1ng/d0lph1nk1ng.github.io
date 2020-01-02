@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stocks on d0lph1nk1ng Software</title>
+    <link>https://d0lph1nk1ng.github.io/tags/stocks/</link>
+    <description>Recent content in stocks on d0lph1nk1ng Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 May 2010 17:35:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://d0lph1nk1ng.github.io/tags/stocks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FinancePlusPlus</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2010-05-25-financeplusplus/</link>
+      <pubDate>Tue, 25 May 2010 17:35:10 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2010-05-25-financeplusplus/</guid>
+      <description>This app will allows you to track stock and portfolio values, view market charts, and read market news articles. Many additional features are in development to make this app worthy of its name.</description>
+    </item>
+    
+    <item>
+      <title>dkStocks</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-10-13-dkstocks/</link>
+      <pubDate>Tue, 13 Oct 2009 23:01:55 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-10-13-dkstocks/</guid>
+      <description>This app is a stock portfolio for your Palm Pre. It can track your portfolio&#39;s total value, show you stock information, and do fullscreen charting. Please note that this is an early development beta, I plan to add many more features.</description>
+    </item>
+    
+    <item>
+      <title>d0lph1nStocks</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-03-01-d0lph1nstocks/</link>
+      <pubDate>Sun, 01 Mar 2009 17:47:54 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-03-01-d0lph1nstocks/</guid>
+      <description>View stock quotes, charts, and news on your Instinct phone.</description>
+    </item>
+    
+  </channel>
+</rss>

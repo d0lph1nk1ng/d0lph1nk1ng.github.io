@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scrolling on d0lph1nk1ng Software</title>
+    <link>https://d0lph1nk1ng.github.io/tags/scrolling/</link>
+    <description>Recent content in scrolling on d0lph1nk1ng Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Aug 2009 05:44:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://d0lph1nk1ng.github.io/tags/scrolling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ScreamIt</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-08-14-screamit/</link>
+      <pubDate>Fri, 14 Aug 2009 05:44:10 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-08-14-screamit/</guid>
+      <description>Scrolls large text across the screen in landscape mode so that other people in really loud or really quiet places can get your message. Supports adding, editting, and deleting saved messages.
+In the future I plan to add support for:
+ different foreground colors different background colors variable scrolling speeds  </description>
+    </item>
+    
+    <item>
+      <title>ScreamIt</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2008-12-07-screamit-j2me/</link>
+      <pubDate>Sun, 07 Dec 2008 09:27:49 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2008-12-07-screamit-j2me/</guid>
+      <description>Scrolls large text across the screen in landscape mode at variable speeds.</description>
+    </item>
+    
+  </channel>
+</rss>

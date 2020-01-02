@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mole on d0lph1nk1ng Software</title>
+    <link>https://d0lph1nk1ng.github.io/tags/mole/</link>
+    <description>Recent content in mole on d0lph1nk1ng Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Nov 2009 16:18:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://d0lph1nk1ng.github.io/tags/mole/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MoleWhack</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-11-18-molewhack/</link>
+      <pubDate>Wed, 18 Nov 2009 16:18:20 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-11-18-molewhack/</guid>
+      <description>MoleWhack is a simple whack-a-mole game. As the moles, Pres, iPhones, or Facebook friends pop up and down, try to tap on them to send them back into their hole. Tap as many as you can in the designated time to get to the next level with faster moving moles!</description>
+    </item>
+    
+    <item>
+      <title>MoleWhack</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-02-07-molewhack-j2me/</link>
+      <pubDate>Sat, 07 Feb 2009 17:34:09 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-02-07-molewhack-j2me/</guid>
+      <description>Whack-A-Mole game featuring Mole, Instinct, and iPhone modes.
+Includes sound, high scores, and increasing difficulty.</description>
+    </item>
+    
+  </channel>
+</rss>

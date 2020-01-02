@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on d0lph1nk1ng Software</title>
+    <link>https://d0lph1nk1ng.github.io/tags/android/</link>
+    <description>Recent content in Android on d0lph1nk1ng Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Aug 2009 05:28:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://d0lph1nk1ng.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AndroidApp</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-08-24-androidapp/</link>
+      <pubDate>Mon, 24 Aug 2009 05:28:38 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-08-24-androidapp/</guid>
+      <description>This app simulates the Android experience for your Palm Pre. This is NOT an operating system. This app supports portrait and landscape modes. Please note that this is an early development beta.</description>
+    </item>
+    
+    <item>
+      <title>AndroidApp</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-01-25-androidapp-j2me/</link>
+      <pubDate>Sun, 25 Jan 2009 17:32:50 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-01-25-androidapp-j2me/</guid>
+      <description>Simulates the Android OS functional theme and layout. This app works in portrait and landscape modes toggled by voice button. This is not a full OS.
+All buttons for apps are functional except the Alarm Clock.
+New In Android 2.0:
+ If you click &amp;amp; hold the clock for two sec you can move it around If you click &amp;amp; hold the background it lets you bring up the option to add shortcuts to the desktop If you click &amp;amp; hold the background it lets you choose from 7 android backgrounds If you click and hold a desktop icon, the menu tab becomes a trash can to remove a shortcut Made the app menu pullout-tab background transparent like true android os Your preferences will save across sessions of the app  </description>
+    </item>
+    
+  </channel>
+</rss>

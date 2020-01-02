@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>voice on d0lph1nk1ng Software</title>
+    <link>https://d0lph1nk1ng.github.io/tags/voice/</link>
+    <description>Recent content in voice on d0lph1nk1ng Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Oct 2009 18:12:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://d0lph1nk1ng.github.io/tags/voice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>dkGoogleVoice</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-10-23-dkgooglevoice/</link>
+      <pubDate>Fri, 23 Oct 2009 18:12:59 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-10-23-dkgooglevoice/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Unofficial Google Voice client for the Palm Pre. This app lets you choose contacts from your device and call or SMS text them using your Google Voice number. [Click here][&lt;a href=&#34;https://d0lph1nk1ng.github.io/?p=41&#34;&gt;https://d0lph1nk1ng.github.io/?p=41&lt;/a&gt;] for more pictures!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE 10/17:&lt;/strong&gt; Google has changed the authentication protocol for this service. I am currently testing a solution to this issue and will have it pushed to the App Catalog as soon as possible. Thanks for your patience.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE 10/22:&lt;/strong&gt; I submitted a fixed version to Palm for review. After that, it will be pushed to the App Catalog. Thanks for your continued patience.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE 10/23:&lt;/strong&gt; Updated application now in the App Catalog! Enjoy.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

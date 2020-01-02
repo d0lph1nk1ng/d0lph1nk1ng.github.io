@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>digital on d0lph1nk1ng Software</title>
+    <link>https://d0lph1nk1ng.github.io/tags/digital/</link>
+    <description>Recent content in digital on d0lph1nk1ng Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Oct 2009 20:26:11 +0000</lastBuildDate>
+    
+	<atom:link href="https://d0lph1nk1ng.github.io/tags/digital/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DigiClock</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-10-31-digiclock/</link>
+      <pubDate>Sat, 31 Oct 2009 20:26:11 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-10-31-digiclock/</guid>
+      <description>A simple digital clock application. The clock can be put in one of many different colors. The date is also shown below the time.
+Note: At the moment, the clock disappears when the screen turns off. There has been a rumor of the new webOS update opening up a new API to fix this.
+UPDATE 11/14: DigiClock v0.9.3 just added to App Catalog fixing the issue. Enjoy.
+UPDATE 1/13: Just submitted DigiClock v0.</description>
+    </item>
+    
+    <item>
+      <title>DigiClock</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2008-11-18-digiclock-j2me/</link>
+      <pubDate>Tue, 18 Nov 2008 15:01:37 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2008-11-18-digiclock-j2me/</guid>
+      <description>Turns your Instinct into a fullscreen digital clock.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lightsaber on d0lph1nk1ng Software</title>
+    <link>https://d0lph1nk1ng.github.io/tags/lightsaber/</link>
+    <description>Recent content in lightsaber on d0lph1nk1ng Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Oct 2009 20:19:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://d0lph1nk1ng.github.io/tags/lightsaber/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LightSword</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-10-31-dklightsaber/</link>
+      <pubDate>Sat, 31 Oct 2009 20:19:40 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-10-31-dklightsaber/</guid>
+      <description>Light sword app complete with on, wave, and clash sounds. Have the ability to choose your own color. I am aware that the sound is a bit laggy, and I will update this if Palm chooses to fix this API.</description>
+    </item>
+    
+  </channel>
+</rss>

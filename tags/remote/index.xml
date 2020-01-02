@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>remote on d0lph1nk1ng Software</title>
+    <link>https://d0lph1nk1ng.github.io/tags/remote/</link>
+    <description>Recent content in remote on d0lph1nk1ng Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2009 04:59:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://d0lph1nk1ng.github.io/tags/remote/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iTunesRemote</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-07-22-itunesremote/</link>
+      <pubDate>Thu, 23 Jul 2009 04:59:28 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-07-22-itunesremote/</guid>
+      <description>This application lets you control iTunes running on your computer from your phone. Simply:
+ Install the rTunes server software Open a port on your PC Give the address to your Pre  </description>
+    </item>
+    
+    <item>
+      <title>iTunesRemote</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-01-10-itunesremote-j2me/</link>
+      <pubDate>Sat, 10 Jan 2009 17:48:49 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-01-10-itunesremote-j2me/</guid>
+      <description>Control iTunes on your PC using this Instinct app and a download for your PC.
+Instructions: Part 1  Download iTunesRemote Server (Windows iTunes 8.0 | Windows iTunes 7.4 | Mac) to your PC with iTunes (server app by Tim Desjardins) Extract the .zip to your program files Open port 4444 on your pc’s firewall Open port 4444 on your router Run the server .exe  Part 2 Get iTunesRemote instinct app here Launch iTunesRemote instinct app Hit edit button and enter server address (example: http://28.</description>
+    </item>
+    
+  </channel>
+</rss>

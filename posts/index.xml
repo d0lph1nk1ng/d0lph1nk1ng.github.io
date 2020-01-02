@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on d0lph1nk1ng Software</title>
+    <link>https://d0lph1nk1ng.github.io/posts/</link>
+    <description>Recent content in Posts on d0lph1nk1ng Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Apr 2011 14:37:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://d0lph1nk1ng.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SyncSMS</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2011-04-07-syncsms/</link>
+      <pubDate>Thu, 07 Apr 2011 14:37:08 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2011-04-07-syncsms/</guid>
+      <description>This app lets you create a Dropbox account and then temporarily store text messages there as the app synchronizes text messages between your tablet and phone. Also, you can compose an SMS from your tablet and it will be synced and sent via your phone.
+Find out more here: http://forum.xda-developers.com/showthread.php?t=1010597</description>
+    </item>
+    
+    <item>
+      <title>EyeLauncher</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2011-03-20-eyelauncher/</link>
+      <pubDate>Sun, 20 Mar 2011 17:58:20 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2011-03-20-eyelauncher/</guid>
+      <description>EyeLauncher is an app that is used to group your apps into folders that have icon previews. This is not a home screen replacement, but can be used along with LauncherPro or ADWLauncher by replacing the app drawer shortcut. It is also possible to use as a standalone app.</description>
+    </item>
+    
+    <item>
+      <title>FinancePlusPlus</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2010-05-25-financeplusplus/</link>
+      <pubDate>Tue, 25 May 2010 17:35:10 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2010-05-25-financeplusplus/</guid>
+      <description>This app will allows you to track stock and portfolio values, view market charts, and read market news articles. Many additional features are in development to make this app worthy of its name.</description>
+    </item>
+    
+    <item>
+      <title>RotaryDialer</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-12-22-rotarydialer/</link>
+      <pubDate>Tue, 22 Dec 2009 19:15:21 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-12-22-rotarydialer/</guid>
+      <description>Turn your Palm Pre into an old-fasioned rotary dialer telephone</description>
+    </item>
+    
+    <item>
+      <title>MoleWhack</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-11-18-molewhack/</link>
+      <pubDate>Wed, 18 Nov 2009 16:18:20 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-11-18-molewhack/</guid>
+      <description>MoleWhack is a simple whack-a-mole game. As the moles, Pres, iPhones, or Facebook friends pop up and down, try to tap on them to send them back into their hole. Tap as many as you can in the designated time to get to the next level with faster moving moles!</description>
+    </item>
+    
+    <item>
+      <title>CowTasks</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-11-18-cowtasks/</link>
+      <pubDate>Wed, 18 Nov 2009 15:33:53 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-11-18-cowtasks/</guid>
+      <description>CowTasks is a WebOS RememberTheMilk client. This app lets you view your lists and the tasks on each list. You can postpone, complete, and edit tasks as well as add new tasks. You can also search all of your tasks using different filters.</description>
+    </item>
+    
+    <item>
+      <title>DigiClock</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-10-31-digiclock/</link>
+      <pubDate>Sat, 31 Oct 2009 20:26:11 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-10-31-digiclock/</guid>
+      <description>A simple digital clock application. The clock can be put in one of many different colors. The date is also shown below the time.
+Note: At the moment, the clock disappears when the screen turns off. There has been a rumor of the new webOS update opening up a new API to fix this.
+UPDATE 11/14: DigiClock v0.9.3 just added to App Catalog fixing the issue. Enjoy.
+UPDATE 1/13: Just submitted DigiClock v0.</description>
+    </item>
+    
+    <item>
+      <title>LightSword</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-10-31-dklightsaber/</link>
+      <pubDate>Sat, 31 Oct 2009 20:19:40 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-10-31-dklightsaber/</guid>
+      <description>Light sword app complete with on, wave, and clash sounds. Have the ability to choose your own color. I am aware that the sound is a bit laggy, and I will update this if Palm chooses to fix this API.</description>
+    </item>
+    
+    <item>
+      <title>dkGoogleVoice</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-10-23-dkgooglevoice/</link>
+      <pubDate>Fri, 23 Oct 2009 18:12:59 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-10-23-dkgooglevoice/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Unofficial Google Voice client for the Palm Pre. This app lets you choose contacts from your device and call or SMS text them using your Google Voice number. [Click here][&lt;a href=&#34;https://d0lph1nk1ng.github.io/?p=41&#34;&gt;https://d0lph1nk1ng.github.io/?p=41&lt;/a&gt;] for more pictures!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE 10/17:&lt;/strong&gt; Google has changed the authentication protocol for this service. I am currently testing a solution to this issue and will have it pushed to the App Catalog as soon as possible. Thanks for your patience.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE 10/22:&lt;/strong&gt; I submitted a fixed version to Palm for review. After that, it will be pushed to the App Catalog. Thanks for your continued patience.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE 10/23:&lt;/strong&gt; Updated application now in the App Catalog! Enjoy.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>dkStocks</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-10-13-dkstocks/</link>
+      <pubDate>Tue, 13 Oct 2009 23:01:55 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-10-13-dkstocks/</guid>
+      <description>This app is a stock portfolio for your Palm Pre. It can track your portfolio&#39;s total value, show you stock information, and do fullscreen charting. Please note that this is an early development beta, I plan to add many more features.</description>
+    </item>
+    
+    <item>
+      <title>AndroidApp</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-08-24-androidapp/</link>
+      <pubDate>Mon, 24 Aug 2009 05:28:38 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-08-24-androidapp/</guid>
+      <description>This app simulates the Android experience for your Palm Pre. This is NOT an operating system. This app supports portrait and landscape modes. Please note that this is an early development beta.</description>
+    </item>
+    
+    <item>
+      <title>dkStopwatch</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-08-17-dkstopwatch/</link>
+      <pubDate>Mon, 17 Aug 2009 19:38:47 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-08-17-dkstopwatch/</guid>
+      <description>This application supports portrait and landscape modes, lap list, and accuracy to the tenth of a second.</description>
+    </item>
+    
+    <item>
+      <title>CoinToss</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-08-15-coinflip/</link>
+      <pubDate>Sun, 16 Aug 2009 04:13:07 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-08-15-coinflip/</guid>
+      <description>This application flips a virtual coin and plays a sound when you swipe the coin up in the air. Also, the coins are almost real-life sized. Supported coin types include:
+ Penny Nickel Dime Quarter Half dollar Dollar  </description>
+    </item>
+    
+    <item>
+      <title>ScreamIt</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-08-14-screamit/</link>
+      <pubDate>Fri, 14 Aug 2009 05:44:10 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-08-14-screamit/</guid>
+      <description>Scrolls large text across the screen in landscape mode so that other people in really loud or really quiet places can get your message. Supports adding, editting, and deleting saved messages.
+In the future I plan to add support for:
+ different foreground colors different background colors variable scrolling speeds  </description>
+    </item>
+    
+    <item>
+      <title>iTunesRemote</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-07-22-itunesremote/</link>
+      <pubDate>Thu, 23 Jul 2009 04:59:28 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-07-22-itunesremote/</guid>
+      <description>This application lets you control iTunes running on your computer from your phone. Simply:
+ Install the rTunes server software Open a port on your PC Give the address to your Pre  </description>
+    </item>
+    
+    <item>
+      <title>dkWeather</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-07-22-dkweather/</link>
+      <pubDate>Thu, 23 Jul 2009 03:58:30 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-07-22-dkweather/</guid>
+      <description>This application supports: current weather conditions, hourly forecast, daily forecast, local radar, national radar, and severe weather alerts.</description>
+    </item>
+    
+    <item>
+      <title>dkEightBall</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-07-20-dkeightball/</link>
+      <pubDate>Tue, 21 Jul 2009 02:27:10 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-07-20-dkeightball/</guid>
+      <description>Magic 8-Ball application that you can shake to yield 1 of 20 possible answers.</description>
+    </item>
+    
+    <item>
+      <title>d0lph1nStocks</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-03-01-d0lph1nstocks/</link>
+      <pubDate>Sun, 01 Mar 2009 17:47:54 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-03-01-d0lph1nstocks/</guid>
+      <description>View stock quotes, charts, and news on your Instinct phone.</description>
+    </item>
+    
+    <item>
+      <title>d0lph1nWeather</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-02-27-d0lph1nweather/</link>
+      <pubDate>Fri, 27 Feb 2009 17:45:06 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-02-27-d0lph1nweather/</guid>
+      <description>View current, hourly, and daily weather forecasts as well as radar images on your Instinct phone.</description>
+    </item>
+    
+    <item>
+      <title>WindowsMobileApp</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-02-20-windowsmobileapp/</link>
+      <pubDate>Fri, 20 Feb 2009 17:39:08 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-02-20-windowsmobileapp/</guid>
+      <description>An app to make your Instinct look like it runs WindowsMobile 6.5.
+All buttons for app shortcuts are functional. Features:
+ Scrolling honeycomb Custom dialer screen 18 shortcuts to apps &amp;amp; websites  </description>
+    </item>
+    
+    <item>
+      <title>MoleWhack</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-02-07-molewhack-j2me/</link>
+      <pubDate>Sat, 07 Feb 2009 17:34:09 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-02-07-molewhack-j2me/</guid>
+      <description>Whack-A-Mole game featuring Mole, Instinct, and iPhone modes.
+Includes sound, high scores, and increasing difficulty.</description>
+    </item>
+    
+    <item>
+      <title>AndroidApp</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-01-25-androidapp-j2me/</link>
+      <pubDate>Sun, 25 Jan 2009 17:32:50 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-01-25-androidapp-j2me/</guid>
+      <description>Simulates the Android OS functional theme and layout. This app works in portrait and landscape modes toggled by voice button. This is not a full OS.
+All buttons for apps are functional except the Alarm Clock.
+New In Android 2.0:
+ If you click &amp;amp; hold the clock for two sec you can move it around If you click &amp;amp; hold the background it lets you bring up the option to add shortcuts to the desktop If you click &amp;amp; hold the background it lets you choose from 7 android backgrounds If you click and hold a desktop icon, the menu tab becomes a trash can to remove a shortcut Made the app menu pullout-tab background transparent like true android os Your preferences will save across sessions of the app  </description>
+    </item>
+    
+    <item>
+      <title>iTunesRemote</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2009-01-10-itunesremote-j2me/</link>
+      <pubDate>Sat, 10 Jan 2009 17:48:49 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2009-01-10-itunesremote-j2me/</guid>
+      <description>Control iTunes on your PC using this Instinct app and a download for your PC.
+Instructions: Part 1  Download iTunesRemote Server (Windows iTunes 8.0 | Windows iTunes 7.4 | Mac) to your PC with iTunes (server app by Tim Desjardins) Extract the .zip to your program files Open port 4444 on your pc’s firewall Open port 4444 on your router Run the server .exe  Part 2 Get iTunesRemote instinct app here Launch iTunesRemote instinct app Hit edit button and enter server address (example: http://28.</description>
+    </item>
+    
+    <item>
+      <title>RubixCube</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2008-12-18-rubixcube/</link>
+      <pubDate>Thu, 18 Dec 2008 17:54:09 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2008-12-18-rubixcube/</guid>
+      <description>A Rubik’s Cube for your Instinct phone</description>
+    </item>
+    
+    <item>
+      <title>d0lph1nMail (1337)</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2008-12-16-d0lph1nmail-1337/</link>
+      <pubDate>Tue, 16 Dec 2008 17:53:09 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2008-12-16-d0lph1nmail-1337/</guid>
+      <description>Compose new emails &amp;amp; texts with auto-added signature using L33t.
+This app does not support replying and forwarding of emails or text messages (new emails/texts only).</description>
+    </item>
+    
+    <item>
+      <title>d0lph1nMail</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2008-12-15-d0lph1nmail/</link>
+      <pubDate>Mon, 15 Dec 2008 17:30:00 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2008-12-15-d0lph1nmail/</guid>
+      <description>Compose new emails &amp;amp; texts with auto-added signature using Sprint default, 9-Key MultiTap, T9, portrait QWERTY, or SureType-ish keyboards.
+This app does not support replying and forwarding of emails or text messages (new emails/texts only).</description>
+    </item>
+    
+    <item>
+      <title>RotaryDialer</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2008-12-07-rotarydialer-j2me/</link>
+      <pubDate>Sun, 07 Dec 2008 13:29:19 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2008-12-07-rotarydialer-j2me/</guid>
+      <description>Rotary Dialer phone that makes actual calls.</description>
+    </item>
+    
+    <item>
+      <title>ScreamIt</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2008-12-07-screamit-j2me/</link>
+      <pubDate>Sun, 07 Dec 2008 09:27:49 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2008-12-07-screamit-j2me/</guid>
+      <description>Scrolls large text across the screen in landscape mode at variable speeds.</description>
+    </item>
+    
+    <item>
+      <title>d0lph1nSaber</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2008-12-07-d0lph1nsaber/</link>
+      <pubDate>Sun, 07 Dec 2008 07:26:35 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2008-12-07-d0lph1nsaber/</guid>
+      <description>Simulates a lightsaber on your Instinct phone with touch events, sounds, and many colors.</description>
+    </item>
+    
+    <item>
+      <title>UsefulUtils (Ruler)</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2008-12-01-usefulutils-ruler/</link>
+      <pubDate>Mon, 01 Dec 2008 17:51:38 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2008-12-01-usefulutils-ruler/</guid>
+      <description>Simulates a ruler on your Instinct phone.</description>
+    </item>
+    
+    <item>
+      <title>UsefulUtils (Protractor)</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2008-12-01-usefulutils/</link>
+      <pubDate>Mon, 01 Dec 2008 17:24:30 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2008-12-01-usefulutils/</guid>
+      <description>Simulates a protractor on your Instinct phone.</description>
+    </item>
+    
+    <item>
+      <title>CoinFlip</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2008-11-24-coinflip-j2me/</link>
+      <pubDate>Mon, 24 Nov 2008 17:19:55 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2008-11-24-coinflip-j2me/</guid>
+      <description>Simulates flipping any one of the many U.S. coin types on your Instinct phone.</description>
+    </item>
+    
+    <item>
+      <title>DigiClock</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2008-11-18-digiclock-j2me/</link>
+      <pubDate>Tue, 18 Nov 2008 15:01:37 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2008-11-18-digiclock-j2me/</guid>
+      <description>Turns your Instinct into a fullscreen digital clock.</description>
+    </item>
+    
+  </channel>
+</rss>

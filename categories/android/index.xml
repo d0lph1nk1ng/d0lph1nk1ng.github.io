@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on d0lph1nk1ng Software</title>
+    <link>https://d0lph1nk1ng.github.io/categories/android/</link>
+    <description>Recent content in Android on d0lph1nk1ng Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Apr 2011 14:37:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://d0lph1nk1ng.github.io/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SyncSMS</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2011-04-07-syncsms/</link>
+      <pubDate>Thu, 07 Apr 2011 14:37:08 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2011-04-07-syncsms/</guid>
+      <description>This app lets you create a Dropbox account and then temporarily store text messages there as the app synchronizes text messages between your tablet and phone. Also, you can compose an SMS from your tablet and it will be synced and sent via your phone.
+Find out more here: http://forum.xda-developers.com/showthread.php?t=1010597</description>
+    </item>
+    
+    <item>
+      <title>EyeLauncher</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2011-03-20-eyelauncher/</link>
+      <pubDate>Sun, 20 Mar 2011 17:58:20 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2011-03-20-eyelauncher/</guid>
+      <description>EyeLauncher is an app that is used to group your apps into folders that have icon previews. This is not a home screen replacement, but can be used along with LauncherPro or ADWLauncher by replacing the app drawer shortcut. It is also possible to use as a standalone app.</description>
+    </item>
+    
+    <item>
+      <title>FinancePlusPlus</title>
+      <link>https://d0lph1nk1ng.github.io/posts/2010-05-25-financeplusplus/</link>
+      <pubDate>Tue, 25 May 2010 17:35:10 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/posts/2010-05-25-financeplusplus/</guid>
+      <description>This app will allows you to track stock and portfolio values, view market charts, and read market news articles. Many additional features are in development to make this app worthy of its name.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on d0lph1nk1ng Software</title>
+    <link>https://d0lph1nk1ng.github.io/categories/</link>
+    <description>Recent content in Categories on d0lph1nk1ng Software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Apr 2011 14:37:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://d0lph1nk1ng.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android</title>
+      <link>https://d0lph1nk1ng.github.io/categories/android/</link>
+      <pubDate>Thu, 07 Apr 2011 14:37:08 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/categories/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Market</title>
+      <link>https://d0lph1nk1ng.github.io/categories/android-market/</link>
+      <pubDate>Thu, 07 Apr 2011 14:37:08 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/categories/android-market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not Available</title>
+      <link>https://d0lph1nk1ng.github.io/categories/not-available/</link>
+      <pubDate>Tue, 22 Dec 2009 19:15:21 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/categories/not-available/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Palm WebOS</title>
+      <link>https://d0lph1nk1ng.github.io/categories/palm-webos/</link>
+      <pubDate>Tue, 22 Dec 2009 19:15:21 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/categories/palm-webos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://d0lph1nk1ng.github.io/categories/open-source/</link>
+      <pubDate>Wed, 18 Nov 2009 15:33:53 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/categories/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instinct</title>
+      <link>https://d0lph1nk1ng.github.io/categories/instinct/</link>
+      <pubDate>Sun, 01 Mar 2009 17:47:54 +0000</pubDate>
+      
+      <guid>https://d0lph1nk1ng.github.io/categories/instinct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
